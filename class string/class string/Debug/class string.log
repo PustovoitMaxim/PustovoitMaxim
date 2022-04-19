@@ -1,0 +1,4 @@
+﻿  class string.cpp
+C:\Users\Pustovoyt\source\repos\class string\class string\class string.cpp(200,36): error C2679: binary '+': no operator found which takes a right-hand operand of type 'long' (or there is no acceptable conversion)
+C:\Users\Pustovoyt\source\repos\class string\class string\class string.cpp(167,14): message : could be 'Snumber &Snumber::operator +(char *)'
+C:\Users\Pustovoyt\source\repos\class string\class string\class string.cpp(200,36): message : while trying to match the argument list '(Snumber, long)'
