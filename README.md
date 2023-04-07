@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PustovoitMaxim
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?You can call me 7 951 847 03 29
 
